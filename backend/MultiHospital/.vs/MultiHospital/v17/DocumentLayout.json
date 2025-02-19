@@ -1,0 +1,1019 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\controllers\\treadmentrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:controllers\\treadmentrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\treatmentrecordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\treatmentrecordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\models\\treatmentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:models\\treatmentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\controllers\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:controllers\\hospitalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250210150801_RelationshipsChangedToCascadeDelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250210150801_RelationshipsChangedToCascadeDelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\context\\identitydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:context\\identitydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\doctorgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\doctorgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\enum\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:enum\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\adminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\adminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\staffpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\staffpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\staffupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\staffupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\treatmentrecordpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\treatmentrecordpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\appointmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\appointmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094247_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209094247_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094224_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209094224_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094110_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209094110_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094003_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209094003_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093919_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209093919_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093744_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209093744_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093531_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209093531_UpdatedDoctorAndPatientRelationWithAppointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093031_UpdatedDoctorAndPatientController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209093031_UpdatedDoctorAndPatientController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209091023_AppointmentAddedInTreatmentRecordsAndViceVersa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209091023_AppointmentAddedInTreatmentRecordsAndViceVersa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\appointmentstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\appointmentstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\appointmentpostdto\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\appointmentpostdto\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209065718_TreatmentRecordIdInsertedInAppointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209065718_TreatmentRecordIdInsertedInAppointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209065129_AppointmentIdIsAddedInTreatmentRecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250209065129_AppointmentIdIsAddedInTreatmentRecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\hospitalpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\hospitalpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\hospitalgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\hospitalgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\doctorcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\doctorcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\doctorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\doctorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/multihospital/True/SqlTable/dbo.Doctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Hopiysl/True/SqlTable/dbo.Departments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Hopiysl/True/SqlTable/dbo.Doctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MHM/True/SqlTable/dbo.Appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MHM/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MHM/True/SqlTable/dbo.Admins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\dto\\patientpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:dto\\patientpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\migrations\\20250131005843_usermodelsupdatedwithuserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:migrations\\20250131005843_usermodelsupdatedwithuserid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\migrations\\20250206072005_iamgefieldaddedinhospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:migrations\\20250206072005_iamgefieldaddedinhospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\migrations\\20250206060222_updateddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:migrations\\20250206060222_updateddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\migrations\\20250209154408_billingandstaffisdeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:migrations\\20250209154408_billingandstaffisdeleted.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\migrations\\20250209094401_updateddoctorandpatientrelationwithappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:migrations\\20250209094401_updateddoctorandpatientrelationwithappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\migrations\\20250209183430_addidentityuserinadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:migrations\\20250209183430_addidentityuserinadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|c:\\users\\parth\\desktop\\dac24\\project\\myproject\\backend\\multihospital\\migrations\\20250209183237_addadminstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AAB7F1-775C-4D23-B768-62962DEF7FB6}|MultiHospital.csproj|solutionrelative:migrations\\20250209183237_addadminstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAYBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:34:15.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TreatmentRecordGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\TreatmentRecordGetDto.cs",
+              "RelativeDocumentMoniker": "DTO\\TreatmentRecordGetDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\TreatmentRecordGetDto.cs",
+              "RelativeToolTip": "DTO\\TreatmentRecordGetDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:48:52.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TreatmentRecord.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\TreatmentRecord.cs",
+              "RelativeDocumentMoniker": "Models\\TreatmentRecord.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\TreatmentRecord.cs",
+              "RelativeToolTip": "Models\\TreatmentRecord.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:29:58.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:51:49.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAADwv7MAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T23:34:53.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreadmentRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\TreadmentRecordsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TreadmentRecordsController.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\TreadmentRecordsController.cs",
+              "RelativeToolTip": "Controllers\\TreadmentRecordsController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAwwKYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:30:30.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:54:31.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HospitalController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\HospitalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HospitalController.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\HospitalController.cs",
+              "RelativeToolTip": "Controllers\\HospitalController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAkwLYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:27:52.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:47:27.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250210150801_RelationshipsChangedToCascadeDelete.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250210150801_RelationshipsChangedToCascadeDelete.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250210150801_RelationshipsChangedToCascadeDelete.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250210150801_RelationshipsChangedToCascadeDelete.cs",
+              "RelativeToolTip": "Migrations\\20250210150801_RelationshipsChangedToCascadeDelete.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:08:02.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IdentityDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Context\\IdentityDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Context\\IdentityDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Context\\IdentityDatabaseContext.cs",
+              "RelativeToolTip": "Context\\IdentityDatabaseContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwDwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:00:51.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:24:50.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:14:45.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\DoctorGetDto.cs",
+              "RelativeDocumentMoniker": "DTO\\DoctorGetDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\DoctorGetDto.cs",
+              "RelativeToolTip": "DTO\\DoctorGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:45:45.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawDoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:51:08.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:25:01.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Interface\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:25:44.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwC8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:54:08.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:22:08.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "Data\\DataSeeder.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:49:20.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:48:40.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "Models\\Hospital.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Models\\Hospital.cs",
+              "RelativeToolTip": "Models\\Hospital.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:07:10.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250209183430_AddIdentityUserInAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209183430_AddIdentityUserInAdmin.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209183430_AddIdentityUserInAdmin.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209183430_AddIdentityUserInAdmin.cs",
+              "RelativeToolTip": "Migrations\\20250209183430_AddIdentityUserInAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:34:30.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppointmentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Enum\\AppointmentStatus.cs",
+              "RelativeDocumentMoniker": "Enum\\AppointmentStatus.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Enum\\AppointmentStatus.cs",
+              "RelativeToolTip": "Enum\\AppointmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:54:03.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\AdminUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AdminUpdateDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\AdminUpdateDto.cs",
+              "RelativeToolTip": "DTO\\AdminUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:35:27.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250209183237_AddAdminsTable.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209183237_AddAdminsTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209183237_AddAdminsTable.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209183237_AddAdminsTable.cs",
+              "RelativeToolTip": "Migrations\\20250209183237_AddAdminsTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:32:37.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T00:28:41.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250209154408_BillingAndStaffIsDeleted.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209154408_BillingAndStaffIsDeleted.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209154408_BillingAndStaffIsDeleted.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209154408_BillingAndStaffIsDeleted.cs",
+              "RelativeToolTip": "Migrations\\20250209154408_BillingAndStaffIsDeleted.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:44:09.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StaffPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\StaffPostDto.cs",
+              "RelativeDocumentMoniker": "DTO\\StaffPostDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\StaffPostDto.cs",
+              "RelativeToolTip": "DTO\\StaffPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:40:44.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StaffUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\StaffUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTO\\StaffUpdateDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\StaffUpdateDto.cs",
+              "RelativeToolTip": "DTO\\StaffUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:40:42.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TreatmentRecordPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\TreatmentRecordPostDto.cs",
+              "RelativeDocumentMoniker": "DTO\\TreatmentRecordPostDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\TreatmentRecordPostDto.cs",
+              "RelativeToolTip": "DTO\\TreatmentRecordPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:49:18.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppointmentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\AppointmentGetDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AppointmentGetDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\AppointmentGetDto.cs",
+              "RelativeToolTip": "DTO\\AppointmentGetDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:46:49.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250209094401_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094401_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209094401_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094401_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeToolTip": "Migrations\\20250209094401_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:44:01.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250209094247_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094247_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209094247_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094247_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeToolTip": "Migrations\\20250209094247_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:42:47.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250209094224_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094224_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209094224_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094224_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeToolTip": "Migrations\\20250209094224_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:42:24.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250209094110_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094110_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209094110_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094110_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeToolTip": "Migrations\\20250209094110_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:41:10.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250209094003_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094003_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209094003_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209094003_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeToolTip": "Migrations\\20250209094003_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:40:03.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250209093919_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093919_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209093919_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093919_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeToolTip": "Migrations\\20250209093919_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:39:19.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250209093744_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093744_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209093744_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093744_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeToolTip": "Migrations\\20250209093744_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:37:44.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250209093531_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093531_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209093531_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093531_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "RelativeToolTip": "Migrations\\20250209093531_UpdatedDoctorAndPatientRelationWithAppointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:35:31.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250209093031_UpdatedDoctorAndPatientController.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093031_UpdatedDoctorAndPatientController.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209093031_UpdatedDoctorAndPatientController.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209093031_UpdatedDoctorAndPatientController.cs",
+              "RelativeToolTip": "Migrations\\20250209093031_UpdatedDoctorAndPatientController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:30:32.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250209091023_AppointmentAddedInTreatmentRecordsAndViceVersa.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209091023_AppointmentAddedInTreatmentRecordsAndViceVersa.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209091023_AppointmentAddedInTreatmentRecordsAndViceVersa.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209091023_AppointmentAddedInTreatmentRecordsAndViceVersa.cs",
+              "RelativeToolTip": "Migrations\\20250209091023_AppointmentAddedInTreatmentRecordsAndViceVersa.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:10:24.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppointmentStatusUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\AppointmentStatusUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTO\\AppointmentStatusUpdateDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\AppointmentStatusUpdateDto.cs",
+              "RelativeToolTip": "DTO\\AppointmentStatusUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:55:15.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AppointmentPostDto\u0027.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\AppointmentPostDto\u0027.cs",
+              "RelativeDocumentMoniker": "DTO\\AppointmentPostDto\u0027.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\AppointmentPostDto\u0027.cs",
+              "RelativeToolTip": "DTO\\AppointmentPostDto\u0027.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T01:28:08.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250209065718_TreatmentRecordIdInsertedInAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209065718_TreatmentRecordIdInsertedInAppointment.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209065718_TreatmentRecordIdInsertedInAppointment.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209065718_TreatmentRecordIdInsertedInAppointment.cs",
+              "RelativeToolTip": "Migrations\\20250209065718_TreatmentRecordIdInsertedInAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:57:18.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250209065129_AppointmentIdIsAddedInTreatmentRecords.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209065129_AppointmentIdIsAddedInTreatmentRecords.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250209065129_AppointmentIdIsAddedInTreatmentRecords.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250209065129_AppointmentIdIsAddedInTreatmentRecords.cs",
+              "RelativeToolTip": "Migrations\\20250209065129_AppointmentIdIsAddedInTreatmentRecords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T06:51:29.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DepartmentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\DepartmentCreateDto.cs",
+              "RelativeDocumentMoniker": "DTO\\DepartmentCreateDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\DepartmentCreateDto.cs",
+              "RelativeToolTip": "DTO\\DepartmentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:17:12.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HospitalGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\HospitalGetDto.cs",
+              "RelativeDocumentMoniker": "DTO\\HospitalGetDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\HospitalGetDto.cs",
+              "RelativeToolTip": "DTO\\HospitalGetDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:51:55.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HospitalPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\HospitalPostDto.cs",
+              "RelativeDocumentMoniker": "DTO\\HospitalPostDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\HospitalPostDto.cs",
+              "RelativeToolTip": "DTO\\HospitalPostDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:08:23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DoctorCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\DoctorCreationDto.cs",
+              "RelativeDocumentMoniker": "DTO\\DoctorCreationDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\DoctorCreationDto.cs",
+              "RelativeToolTip": "DTO\\DoctorCreationDto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:51:36.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250206072005_iamgefieldaddedinhospital.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250206072005_iamgefieldaddedinhospital.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250206072005_iamgefieldaddedinhospital.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250206072005_iamgefieldaddedinhospital.cs",
+              "RelativeToolTip": "Migrations\\20250206072005_iamgefieldaddedinhospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:20:06.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DepartmentGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\DepartmentGetDto.cs",
+              "RelativeDocumentMoniker": "DTO\\DepartmentGetDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\DepartmentGetDto.cs",
+              "RelativeToolTip": "DTO\\DepartmentGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:08:35.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DoctorUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\DoctorUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTO\\DoctorUpdateDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\DoctorUpdateDto.cs",
+              "RelativeToolTip": "DTO\\DoctorUpdateDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:46:58.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250206060222_UpdatedDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250206060222_UpdatedDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250206060222_UpdatedDatabase.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250206060222_UpdatedDatabase.cs",
+              "RelativeToolTip": "Migrations\\20250206060222_UpdatedDatabase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:02:22.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "dbo.Doctors.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/multihospital/True/SqlTable/dbo.Doctors.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/multihospital/True/SqlTable/dbo.Doctors.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-05T11:24:44.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "dbo.Appointments.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MHM/True/SqlTable/dbo.Appointments.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MHM/True/SqlTable/dbo.Appointments.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-31T04:59:56.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "dbo.Doctors.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Hopiysl/True/SqlTable/dbo.Doctors.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Hopiysl/True/SqlTable/dbo.Doctors.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-31T23:32:17.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "dbo.Departments.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Hopiysl/True/SqlTable/dbo.Departments.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Hopiysl/True/SqlTable/dbo.Departments.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-31T23:32:36.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PatientUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\PatientUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTO\\PatientUpdateDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\PatientUpdateDto.cs",
+              "RelativeToolTip": "DTO\\PatientUpdateDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:35:25.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MHM/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MHM/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-31T01:04:15.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "dbo.Admins.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MHM/True/SqlTable/dbo.Admins.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MHM/True/SqlTable/dbo.Admins.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-31T01:04:06.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250131005843_UserModelsUpdatedWithUserId.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250131005843_UserModelsUpdatedWithUserId.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250131005843_UserModelsUpdatedWithUserId.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\Migrations\\20250131005843_UserModelsUpdatedWithUserId.cs",
+              "RelativeToolTip": "Migrations\\20250131005843_UserModelsUpdatedWithUserId.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:58:43.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PatientPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\PatientPostDto.cs",
+              "RelativeDocumentMoniker": "DTO\\PatientPostDto.cs",
+              "ToolTip": "C:\\Users\\parth\\Desktop\\Dac24\\Project\\MyProject\\backend\\MultiHospital\\DTO\\PatientPostDto.cs",
+              "RelativeToolTip": "DTO\\PatientPostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:54:05.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

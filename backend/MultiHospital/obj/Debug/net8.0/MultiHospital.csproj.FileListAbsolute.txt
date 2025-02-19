@@ -1,0 +1,599 @@
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\appsettings.json
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.staticwebassets.endpoints.json
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.exe
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.deps.json
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.runtimeconfig.json
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.pdb
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Humanizer.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.csproj.AssemblyReference.cache
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.AssemblyInfoInputs.cache
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.AssemblyInfo.cs
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.csproj.CoreCompileInputs.cache
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.sourcelink.json
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\scopedcss\bundle\MultiHospital.styles.css
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.MultiHospital.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.MultiHospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.build.MultiHospital.props
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MultiHospital.props
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MultiHospital.props
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHos.FC8899BD.Up2Date
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\refint\MultiHospital.dll
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.pdb
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.genruntimeconfig.cache
+C:\Users\parth\Desktop\Dac24\ShirnyaProject\New folder\Cure-All\MultiHospital\obj\Debug\net8.0\ref\MultiHospital.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\appsettings.Development.json
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\appsettings.json
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.staticwebassets.endpoints.json
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.exe
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.deps.json
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.runtimeconfig.json
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\MultiHospital.pdb
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Azure.Core.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Azure.Identity.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Humanizer.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.CodeDom.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.csproj.AssemblyReference.cache
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.AssemblyInfoInputs.cache
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.AssemblyInfo.cs
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.csproj.CoreCompileInputs.cache
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.MvcApplicationPartsAssemblyInfo.cs
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.MvcApplicationPartsAssemblyInfo.cache
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.sourcelink.json
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\scopedcss\bundle\MultiHospital.styles.css
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets.build.json
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets.development.json
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.MultiHospital.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.MultiHospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.build.MultiHospital.props
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MultiHospital.props
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MultiHospital.props
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHos.FC8899BD.Up2Date
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\refint\MultiHospital.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.pdb
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\MultiHospital.genruntimeconfig.cache
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\obj\Debug\net8.0\ref\MultiHospital.dll
+D:\Shri full project\Cure-All\Cure-All\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\appsettings.Development.json
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\appsettings.json
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.staticwebassets.endpoints.json
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.exe
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.deps.json
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.runtimeconfig.json
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.pdb
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Azure.Core.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Azure.Identity.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Humanizer.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.CodeDom.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Shri full project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.csproj.AssemblyReference.cache
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.AssemblyInfoInputs.cache
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.AssemblyInfo.cs
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.csproj.CoreCompileInputs.cache
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.MvcApplicationPartsAssemblyInfo.cs
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.MvcApplicationPartsAssemblyInfo.cache
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.sourcelink.json
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\scopedcss\bundle\MultiHospital.styles.css
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets.build.json
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets.development.json
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.MultiHospital.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.MultiHospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.build.MultiHospital.props
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MultiHospital.props
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MultiHospital.props
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHos.FC8899BD.Up2Date
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.dll
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\refint\MultiHospital.dll
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.pdb
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.genruntimeconfig.cache
+D:\Shri full project\MyProject\backend\MultiHospital\obj\Debug\net8.0\ref\MultiHospital.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\appsettings.json
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.staticwebassets.endpoints.json
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.exe
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.deps.json
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.runtimeconfig.json
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\MultiHospital.pdb
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Humanizer.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.csproj.AssemblyReference.cache
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.AssemblyInfoInputs.cache
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.AssemblyInfo.cs
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.csproj.CoreCompileInputs.cache
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\scopedcss\bundle\MultiHospital.styles.css
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.MultiHospital.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.MultiHospital.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.build.MultiHospital.props
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MultiHospital.props
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MultiHospital.props
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHos.FC8899BD.Up2Date
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\refint\MultiHospital.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.pdb
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.genruntimeconfig.cache
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\ref\MultiHospital.dll
+C:\Users\parth\Desktop\Dac24\Project\MyProject\backend\MultiHospital\obj\Debug\net8.0\MultiHospital.sourcelink.json
