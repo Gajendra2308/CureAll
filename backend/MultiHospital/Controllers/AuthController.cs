@@ -23,7 +23,7 @@ namespace MultiHospital.Controllers
             _signInManager = signInManager;
         }
 
-        // Login Endpoint
+        
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginModel model)
         {
@@ -39,12 +39,12 @@ namespace MultiHospital.Controllers
                 return Unauthorized(new { message = "Invalid credentials" });
             }
 
-            // Generate JWT token
+           
             var token = await _authService.GenerateJwtTokenAsync(model.Email);
             return Ok(new { Token = token });
         }
 
-        // Get Roles (admin-only endpoint)
+      
         //[Authorize(Roles = "admin")]
         [HttpGet("GetRoles")]
         public async Task<IActionResult> GetRoles()
@@ -53,7 +53,7 @@ namespace MultiHospital.Controllers
             return Ok(roles);
         }
 
-        // Get Roles for a User by Email
+      
         [HttpGet("GetUserRoles")]
         public async Task<IActionResult> GetUserRoles(string email)
         {
@@ -65,7 +65,7 @@ namespace MultiHospital.Controllers
             return Ok(userRoles);
         }
 
-        // Add Roles to System (admin-only endpoint)
+       
         //[Authorize(Roles = "admin")]
         [HttpPost("AddRoles")]
         public async Task<IActionResult> AddRoles([FromBody] string[] roles)
@@ -79,7 +79,7 @@ namespace MultiHospital.Controllers
             return Ok(roleList);
         }
 
-        // Add Roles to User
+      
         [HttpPost("AddUserRoles")]
         public async Task<IActionResult> AddUserRoles([FromBody] AddUserRolesModel userRoleModel)
         {
