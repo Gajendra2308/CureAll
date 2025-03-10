@@ -8,7 +8,7 @@ using MultiHospital.Models;
 
 [Route("api/[controller]")]
 [ApiController]
-//[Authorize(Roles ="admin")]
+
 public class DoctorController : ControllerBase
 {
     private readonly IdentityDatabaseContext _context;
@@ -52,7 +52,7 @@ public class DoctorController : ControllerBase
     }
 
 
-    // GET: api/doctor/{id}
+    
     [HttpGet("{id}")]
     [AllowAnonymous]
     public async Task<ActionResult<DoctorGetDto>> GetDoctor(int id)
@@ -86,7 +86,7 @@ public class DoctorController : ControllerBase
         return Ok(doctorDto);
     }
 
-    // POST: api/doctor/register (Create doctor with image upload)
+   
     [Authorize(Roles ="admin")]
     [HttpPost("register")]
     
@@ -108,7 +108,7 @@ public class DoctorController : ControllerBase
         {
             var doctor = new Doctor
             {
-                UserId = user.Id,  // Associate the IdentityUser with the Doctor model
+                UserId = user.Id,  
                 HospitalID = doctorDto.HospitalID,
                 DepartmentID = doctorDto.DepartmentID,
                 Name = doctorDto.Name,
@@ -121,7 +121,7 @@ public class DoctorController : ControllerBase
                 IsAvailable = doctorDto.IsAvailable
             };
 
-            // Handle image upload
+           
             if (doctorDto.ImageFile != null && doctorDto.ImageFile.Length > 0)
             {
                 using (var memoryStream = new MemoryStream())
@@ -131,18 +131,17 @@ public class DoctorController : ControllerBase
                 }
             }
 
-            // Ensure the "doctor" role exists or create it
+          
             var roleCreated = await _authService.EnsureRoleExistsAsync("doctor");
             if (!roleCreated)
             {
                 return BadRequest("Failed to create the doctor role.");
             }
 
-            // Check if the user already has the "doctor" role
+           
             var userRoles = await _userManager.GetRolesAsync(user);
             if (!userRoles.Contains("doctor"))
             {
-                // Add the "doctor" role to the user
                 var addRoleResult = await _userManager.AddToRoleAsync(user, "doctor");
                 if (!addRoleResult.Succeeded)
                 {
@@ -163,7 +162,7 @@ public class DoctorController : ControllerBase
 
 
 
-    // PUT: api/doctor/{id} (Update doctor including image)
+   
         [HttpPut("{id}")]
     [Authorize(Roles ="doctor")]
         public async Task<IActionResult> UpdateDoctor(int id, [FromForm] DoctorUpdateDto doctorDto)
@@ -177,8 +176,6 @@ public class DoctorController : ControllerBase
             {
                 return NotFound();
             }
-
-            // If HospitalID or DepartmentID are missing (i.e. 0 or invalid), use the existing doctor's values
             if (doctorDto.HospitalID == 0)
             {
                 doctorDto.HospitalID = existingDoctor.HospitalID;
@@ -189,7 +186,7 @@ public class DoctorController : ControllerBase
                 doctorDto.DepartmentID = existingDoctor.DepartmentID;
             }
 
-            // Update doctor properties from the DTO
+           
             existingDoctor.HospitalID = doctorDto.HospitalID;
             existingDoctor.DepartmentID = doctorDto.DepartmentID;
             existingDoctor.Name = doctorDto.Name;
@@ -200,7 +197,6 @@ public class DoctorController : ControllerBase
             existingDoctor.Fees = doctorDto.Fees;
             existingDoctor.UpdatedAt = DateTime.UtcNow;
 
-            // Update image if a new one is provided
             if (doctorDto.ImageFile != null && doctorDto.ImageFile.Length > 0)
             {
                 using (var memoryStream = new MemoryStream())
@@ -210,7 +206,7 @@ public class DoctorController : ControllerBase
                 }
             }
 
-            // Save changes to the database
+            
             await _context.SaveChangesAsync();
 
             return Ok(new { message = "Doctor updated successfully.", existingDoctor });
@@ -232,7 +228,7 @@ public class DoctorController : ControllerBase
             return NotFound();
         }
 
-        // Remove associated Appointments and Treatment Records
+       
         var appointments = await _context.Appointments
             .Where(a => a.DoctorID == id)
             .Include(a => a.TreatmentRecord)
@@ -247,7 +243,7 @@ public class DoctorController : ControllerBase
             _context.Appointments.Remove(appointment);
         }
 
-        // Remove IdentityUser if exists
+       
         if (!string.IsNullOrEmpty(doctor.Email))
         {
             var user = await _userManager.FindByEmailAsync(doctor.Email);
