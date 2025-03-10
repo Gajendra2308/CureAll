@@ -2,9 +2,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MultiHospital.Context; // Adjust the namespace according to your project structure
+using MultiHospital.Context;
 using MultiHospital.DTOs;
-using MultiHospital.Models; // Adjust the namespace according to your project structure
+using MultiHospital.Models; 
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -17,7 +17,7 @@ namespace MultiHospital.Controllers
 
     public class DepartmentController : ControllerBase
     {
-        private readonly IdentityDatabaseContext _context; // Your DbContext
+        private readonly IdentityDatabaseContext _context; 
         private readonly UserManager<IdentityUser> _userManager;
 
         public DepartmentController(IdentityDatabaseContext context, UserManager<IdentityUser> userManager)
@@ -26,7 +26,7 @@ namespace MultiHospital.Controllers
             _userManager = userManager;
         }
 
-        // GET: api/department
+        
         [HttpGet]
         [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<DepartmentGetDto>>> GetDepartments()
@@ -77,7 +77,7 @@ namespace MultiHospital.Controllers
 
 
 
-        // GET: api/department/hospital/{hospitalId}
+      
         [HttpGet("hospital/{hospitalId}")]
         [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<DepartmentGetDto>>> GetDepartmentsByHospital(int hospitalId)
@@ -87,7 +87,7 @@ namespace MultiHospital.Controllers
                 .Select(d => new DepartmentGetDto
                 {
                     DepartmentID = d.DepartmentID,
-                    HospitalName = d.Hospital.Name, // Use hospital name instead of ID
+                    HospitalName = d.Hospital.Name,
                     Name = d.Name,
                     Description = d.Description,
                     CreatedAt = d.CreatedAt,
@@ -103,7 +103,7 @@ namespace MultiHospital.Controllers
             return Ok(departments);
         }
 
-        // GET: api/department/{departmentId}/doctors
+       
         [HttpGet("{departmentId}/doctors")]
         [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<DoctorGetDto>>> GetDoctorsByDepartment(int departmentId)
@@ -175,7 +175,7 @@ namespace MultiHospital.Controllers
         }
 
 
-        // PUT: api/department/5
+        
         [HttpPut("{id}")]
         
         public async Task<IActionResult> PutDepartment(int id, [FromBody] Department department)
@@ -213,7 +213,7 @@ namespace MultiHospital.Controllers
             return Ok(new { message = "Department updated successfully.", department });
         }
 
-        // DELETE: api/department/5
+        
         [HttpDelete("{id}")]
         
         public async Task<IActionResult> DeleteDepartment(int id)
