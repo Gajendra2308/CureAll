@@ -23,7 +23,7 @@ namespace MultiHospital.Controllers
             _context = context;
         }
 
-        // GET: api/appointment
+        
         [HttpGet]
         [Authorize]
         public async Task<ActionResult<IEnumerable<AppointmentGetDto>>> GetAppointments()
@@ -52,7 +52,7 @@ namespace MultiHospital.Controllers
             return Ok(appointmentDtos);
         }
 
-        // GET: api/appointment/{id}
+        
         [HttpGet("{id}")]
         [Authorize]
         public async Task<ActionResult<AppointmentGetDto>> GetAppointmentById(int id)
@@ -86,7 +86,7 @@ namespace MultiHospital.Controllers
             return Ok(appointmentDto);
         }
 
-        // POST: api/appointment
+        
         [HttpPost]
         [Authorize(Roles = "patient")]
         public async Task<ActionResult<Appointment>> CreateAppointment([FromBody] AppointmentPostDto appointmentPostDto)
@@ -96,9 +96,7 @@ namespace MultiHospital.Controllers
                 return BadRequest(ModelState);
             }
 
-            // When an appointment is created by a patient, we do not yet have a treatment record.
-            // (Since the doctor will fill in the treatment details later.)
-            // Here we set TreatmentRecordID to 0.
+           
             var appointment = new Appointment
             {
                 PatientID = appointmentPostDto.PatientID,
@@ -118,7 +116,7 @@ namespace MultiHospital.Controllers
             return CreatedAtAction(nameof(GetAppointmentById), new { id = appointment.AppointmentID }, appointment);
         }
 
-        // PUT: api/appointment/{id}
+       
         [HttpPut("{id}")]
         [Authorize(Roles ="patient")]
         public async Task<IActionResult> UpdateAppointment(int id, [FromBody] AppointmentPostDto appointmentPostDto)
@@ -144,7 +142,7 @@ namespace MultiHospital.Controllers
             return Ok(new { message = "Appointment updated successfully." });
         }
 
-        // DELETE: api/appointment/{id}
+        
         [HttpDelete("{id}")]
         [Authorize(Roles ="patient")]
         public async Task<IActionResult> DeleteAppointment(int id)
@@ -156,28 +154,27 @@ namespace MultiHospital.Controllers
                 return NotFound();
             }
 
-            // Find the treatment record associated with the appointment.
-            // This assumes that TreatmentRecords have an AppointmentID property.
+           
             var treatmentRecord = await _context.TreatmentRecords
                 .FirstOrDefaultAsync(tr => tr.AppointmentID == id);
 
-            // If a treatment record exists, remove it.
+           
             if (treatmentRecord != null)
             {
                 _context.TreatmentRecords.Remove(treatmentRecord);
             }
 
-            // Remove the appointment.
+        
             _context.Appointments.Remove(appointment);
 
-            // Save changes to the database.
+            
             await _context.SaveChangesAsync();
 
             return Ok(new { message = "Appointment deleted successfully." });
         }
 
 
-        // PUT: api/appointment/{id}/status
+       
         [HttpPut("{id}/status")]
         public async Task<IActionResult> UpdateAppointmentStatus(int id, [FromBody] AppointmentStatusUpdateDto statusUpdateDto)
         {
@@ -201,7 +198,6 @@ namespace MultiHospital.Controllers
             return Ok(new { message = "Appointment status updated successfully." });
         }
 
-        // GET: api/appointment/doctor/{doctorId}
         [HttpGet("doctor/{doctorId}")]
         [Authorize]
         public async Task<ActionResult<IEnumerable<AppointmentGetDto>>> GetAppointmentsByDoctorId(int doctorId)
@@ -236,7 +232,6 @@ namespace MultiHospital.Controllers
             return Ok(appointmentDtos);
         }
 
-        // GET: api/appointment/patient/{patientId}
         [HttpGet("patient/{patientId}")]
         [Authorize]
         public async Task<ActionResult<IEnumerable<AppointmentGetDto>>> GetAppointmentsByPatientId(int patientId)
