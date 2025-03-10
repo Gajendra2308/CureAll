@@ -2,9 +2,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MultiHospital.Context; // Adjust the namespace according to your project structure
+using MultiHospital.Context;
 using MultiHospital.DTOs;
-using MultiHospital.Models; // Adjust the namespace according to your project structure
+using MultiHospital.Models; 
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -16,7 +16,7 @@ namespace MultiHospital.Controllers
     [ApiController]
     public class HospitalController : ControllerBase
     {
-        private readonly IdentityDatabaseContext _context; // Your DbContext
+        private readonly IdentityDatabaseContext _context; 
         private readonly UserManager<IdentityUser> _userManager;
         private readonly IWebHostEnvironment _environment;
 
@@ -27,7 +27,7 @@ namespace MultiHospital.Controllers
             _environment = environment;
         }
 
-        // POST: api/hospital
+       
         [HttpPost]
         [Authorize(Roles ="admin")]
         public async Task<ActionResult<HospitalGetDto>> PostHospital([FromForm] HospitalPostDto hospitalDto)
@@ -78,19 +78,17 @@ namespace MultiHospital.Controllers
                 ImageUrl = hospital.Image != null ? Path.Combine("uploads", $"{hospital.HospitalID}.jpg") : null // Generate image URL if available
             };
 
-            // Return a response with a location header pointing to the newly created hospital
             return CreatedAtAction(nameof(GetHospital), new { id = hospital.HospitalID }, hospitalGetDto);
         }
 
-        // GET: api/hospital 
+       
         [HttpGet]
         [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<HospitalGetDto>>> GetHospitals()
         {
-            // Retrieve the list of hospitals from the database
+           
             var hospitals = await _context.Hospitals.ToListAsync();
 
-            // Map the list of hospitals to the HospitalGetDto
             var hospitalsDto = hospitals.Select(hospital => new HospitalGetDto
             {
                 HospitalID = hospital.HospitalID,
@@ -106,12 +104,12 @@ namespace MultiHospital.Controllers
             return Ok(hospitalsDto);
         }
 
-        // DELETE: api/hospital/5
+       
         [HttpDelete("{id}")]
         [Authorize(Roles ="admin")]
         public async Task<IActionResult> DeleteHospital(int id)
         {
-            // Retrieve the existing hospital from the database
+            
             var hospital = await _context.Hospitals.FindAsync(id);
 
             if (hospital == null)
@@ -119,29 +117,28 @@ namespace MultiHospital.Controllers
                 return NotFound("Hospital not found.");
             }
 
-            // Remove the hospital from the database
+            
             _context.Hospitals.Remove(hospital);
 
-            // Save changes to the database
+           
             await _context.SaveChangesAsync();
 
             return Ok(new { message = "Hospital deleted successfully." });
         }
 
 
-        // PUT: api/hospital/5
         [HttpPut("{id}")]
         [Authorize(Roles ="admin")]
         public async Task<IActionResult> PutHospital(int id, [FromForm] HospitalPostDto hospitalDto)
         {
-            // Retrieve the existing hospital from the database
+            
             var existingHospital = await _context.Hospitals.FindAsync(id);
             if (existingHospital == null)
             {
                 return NotFound("Hospital not found.");
             }
 
-            // Handle the image file if provided
+          
             if (hospitalDto.ImageFile != null && hospitalDto.ImageFile.Length > 0)
             {
                 using (var memoryStream = new MemoryStream())
@@ -151,14 +148,14 @@ namespace MultiHospital.Controllers
                 }
             }
 
-            // Update other hospital fields
+           
             existingHospital.Name = hospitalDto.Name;
             existingHospital.Address = hospitalDto.Address;
             existingHospital.Phone = hospitalDto.Phone;
             existingHospital.Email = hospitalDto.Email;
             existingHospital.UpdatedAt = DateTime.UtcNow; // Update the UpdatedAt property
 
-            // Save changes to the database
+           
             try
             {
                 await _context.SaveChangesAsync();
@@ -178,7 +175,7 @@ namespace MultiHospital.Controllers
             return Ok(new { message = "Hospital updated successfully.", hospital = existingHospital });
         }
 
-        // GET: api/hospital/5
+        
         [HttpGet("{id}")]
         [AllowAnonymous]
         public async Task<ActionResult<HospitalGetDto>> GetHospital(int id)
@@ -192,7 +189,7 @@ namespace MultiHospital.Controllers
                 return NotFound("Hospital not found.");
             }
 
-            // Map the hospital entity to the DTO
+            
             var hospitalGetDto = new HospitalGetDto
             {
                 HospitalID = hospital.HospitalID,
