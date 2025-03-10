@@ -36,7 +36,7 @@ namespace MultiHospital.Controllers
                 .Select(d => new DepartmentGetDto
                 {
                     DepartmentID = d.DepartmentID,
-                    HospitalName = d.Hospital.Name, // Use hospital name instead of ID
+                    HospitalName = d.Hospital.Name, 
                     Name = d.Name,
                     Description = d.Description,
                     CreatedAt = d.CreatedAt,
@@ -117,7 +117,7 @@ namespace MultiHospital.Controllers
 
             // Retrieve all doctors associated with the specified department
             var doctors = await _context.Doctors
-                .Where(d => d.DepartmentID == departmentId) // Filter by department ID
+                .Where(d => d.DepartmentID == departmentId) 
                 .Select(d => new DoctorGetDto
                 {
                     DoctorID = d.DoctorID,
@@ -125,8 +125,8 @@ namespace MultiHospital.Controllers
                     Specialization = d.Specialization,
                     Phone = d.Phone,
                     Email = d.Email,
-                    HospitalName = d.Hospital.Name, // Assuming Hospital has a Name property
-                    DepartmentName = d.Department.Name // Assuming Department has a Name property
+                    HospitalName = d.Hospital.Name, 
+                    DepartmentName = d.Department.Name 
                 })
                 .ToListAsync();
 
@@ -157,7 +157,7 @@ namespace MultiHospital.Controllers
                 UpdatedAt = DateTime.UtcNow
             };
 
-            // Handle image upload if provided
+           
             if (departmentDto.ImageFile != null && departmentDto.ImageFile.Length > 0)
             {
                 using (var memoryStream = new MemoryStream())
@@ -167,7 +167,7 @@ namespace MultiHospital.Controllers
                 }
             }
 
-            // Add the department to the context
+            
             _context.Departments.Add(department);
             await _context.SaveChangesAsync();
 
@@ -190,7 +190,7 @@ namespace MultiHospital.Controllers
             existingDepartment.Name = department.Name;
             existingDepartment.Description = department.Description;
 
-            // Update the UpdatedAt property
+            
             department.UpdatedAt = DateTime.UtcNow;
 
 
@@ -218,9 +218,9 @@ namespace MultiHospital.Controllers
         
         public async Task<IActionResult> DeleteDepartment(int id)
         {
-            // Find the department to delete
+           
             var department = await _context.Departments
-                .Include(d => d.Doctors) // Eager load the related doctors
+                .Include(d => d.Doctors) 
                 .FirstOrDefaultAsync(d => d.DepartmentID == id);
 
             if (department == null)
@@ -228,20 +228,20 @@ namespace MultiHospital.Controllers
                 return NotFound(new { message = "Department not found." });
             }
 
-            // Loop through each doctor and delete associated user accounts
+            
             foreach (var doctor in department.Doctors)
             {
-                // Check if the email is null or empty
+                
                 if (string.IsNullOrEmpty(doctor.Email))
                 {
                     return BadRequest(new { message = $"Doctor with ID {doctor.DoctorID} has no email associated." });
                 }
 
-                // Search for the user by email
+               
                 var user = await _userManager.FindByEmailAsync(doctor.Email);
                 if (user != null)
                 {
-                    // Remove the user from their roles
+                   
                     var roles = await _userManager.GetRolesAsync(user);
                     if (roles.Any())
                     {
@@ -252,7 +252,7 @@ namespace MultiHospital.Controllers
                         }
                     }
 
-                    // Delete the user
+                   
                     var deleteUserResult = await _userManager.DeleteAsync(user);
                     if (!deleteUserResult.Succeeded)
             {
@@ -261,7 +261,7 @@ namespace MultiHospital.Controllers
                 }
             }
 
-            // Now delete the department
+            
             _context.Departments.Remove(department);
             await _context.SaveChangesAsync();
 
