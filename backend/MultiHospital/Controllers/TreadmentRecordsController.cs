@@ -33,15 +33,15 @@ namespace MultiHospital.Controllers
                 return BadRequest(ModelState);
             }
 
-            // Create the treatment record from the submitted form.
+            
             var treatmentRecord = new TreatmentRecord
             {
                 PatientID = treatmentRecordDto.PatientID,
                 DoctorID = treatmentRecordDto.DoctorID,
-                AppointmentID = treatmentRecordDto.AppointmentID, // Appointment ID should be supplied in the DTO.
+                AppointmentID = treatmentRecordDto.AppointmentID, 
                 TreatmentDate = treatmentRecordDto.TreatmentDate,
                 Description = treatmentRecordDto.Description,
-                IsVisibleToPatient = treatmentRecordDto.IsVisibleToPatient, // Typically false initially.
+                IsVisibleToPatient = treatmentRecordDto.IsVisibleToPatient, .
                 CreatedAt = DateTime.UtcNow,
                 UpdatedAt = DateTime.UtcNow
             };
@@ -49,7 +49,7 @@ namespace MultiHospital.Controllers
             _context.TreatmentRecords.Add(treatmentRecord);
             await _context.SaveChangesAsync();
 
-            // After the treatment record is created, update the related appointment
+          
             var appointment = await _context.Appointments.FindAsync(treatmentRecord.AppointmentID);
             if (appointment != null)
             {
@@ -144,7 +144,7 @@ namespace MultiHospital.Controllers
             return Ok(new { message = "Visibility updated successfully." });
         }
 
-        // GET: api/treatmentrecords/patient/{patientId}/visible
+        
         [HttpGet("patient/{patientId}/visible")]
         [Authorize]
         public async Task<ActionResult<IEnumerable<TreatmentRecordGetDto>>> GetVisibleTreatmentRecordsForPatient(int patientId)
