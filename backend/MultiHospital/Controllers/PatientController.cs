@@ -23,10 +23,9 @@ public class PatientController : ControllerBase
         _authService = authService;
     }
 
-    // GET: api/patient
+  
     [HttpGet]
-    //[Authorize(Roles ="admin")]
-    //[Authorize(Roles = "admin,patient")]
+   
     [Authorize]
 
     public async Task<ActionResult<IEnumerable<PatientGetDto>>> GetAllPatients()
@@ -84,7 +83,7 @@ public class PatientController : ControllerBase
     {
         if (!ModelState.IsValid) return BadRequest(ModelState);
 
-        // Create IdentityUser for the patient
+      
         var user = new IdentityUser
         {
             UserName = patientDto.Email,
@@ -94,25 +93,25 @@ public class PatientController : ControllerBase
         var result = await _userManager.CreateAsync(user, patientDto.Password);
         if (!result.Succeeded) return BadRequest(result.Errors);
 
-        // Ensure the "Patient" role exists
+      
         var roleCreated = await _authService.EnsureRoleExistsAsync("patient");
         if (!roleCreated)
         {
             return BadRequest("Failed to create the Patient role.");
         }
 
-        // Check if the user already has the "Patient" role
+       
         var userRoles = await _userManager.GetRolesAsync(user);
         if (!userRoles.Contains("patient"))
         {
-            // Add the "Patient" role if it's not already present
+            
             await _authService.AddUserRoleAsync(patientDto.Email, new[] { "patient" });
         }
 
-        // Create Patient entity and link to the IdentityUser
+       
         var patient = new Patient
         {
-            UserId = user.Id, // Set the UserId to associate with the IdentityUser
+            UserId = user.Id, 
             FirstName = patientDto.FirstName,
             LastName = patientDto.LastName,
             DateOfBirth = patientDto.DateOfBirth,
@@ -169,7 +168,7 @@ public class PatientController : ControllerBase
         if (patient == null)
             return NotFound(new { message = "Patient not found." });
 
-        // Only update fields that are provided in the request
+      
         if (!string.IsNullOrEmpty(updateDto.FirstName))
             patient.FirstName = updateDto.FirstName;
 
@@ -191,8 +190,7 @@ public class PatientController : ControllerBase
         if (!string.IsNullOrEmpty(updateDto.Address))
             patient.Address = updateDto.Address;
 
-        patient.UpdatedAt = DateTime.UtcNow; // Update timestamp
-
+        patient.UpdatedAt = DateTime.UtcNow;
         await _context.SaveChangesAsync();
         return Ok(new { message = "Profile updated successfully." });
     }
@@ -202,7 +200,7 @@ public class PatientController : ControllerBase
     public async Task<IActionResult> DeletePatient(int id)
     {
         var patient = await _context.Patients
-            .Include(p => p.Appointments) // Include appointments
+            .Include(p => p.Appointments) 
             .FirstOrDefaultAsync(p => p.PatientID == id);
 
         if (patient == null)
@@ -210,7 +208,7 @@ public class PatientController : ControllerBase
             return NotFound();
         }
 
-        // Remove associated Appointments and Treatment Records
+       
         var appointments = await _context.Appointments
             .Where(a => a.PatientID == id)
             .Include(a => a.TreatmentRecord)
@@ -225,7 +223,7 @@ public class PatientController : ControllerBase
             _context.Appointments.Remove(appointment);
         }
 
-        // Remove IdentityUser if exists
+      
         if (!string.IsNullOrEmpty(patient.Email))
         {
             var user = await _userManager.FindByEmailAsync(patient.Email);
